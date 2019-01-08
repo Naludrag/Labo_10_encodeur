@@ -12,9 +12,10 @@
  Compilateur : MinGW-g++ <x.y.z>
  -----------------------------------------------------------------------------------
  */
-#include <iostream>
 
-int main() {
-   std::cout << "Hello, World!" << std::endl;
-   return 0;
-}
+#ifndef ENCODEUR_H
+#define ENCODEUR_H
+
+
+#endif /* ENCODEUR_H */
+
